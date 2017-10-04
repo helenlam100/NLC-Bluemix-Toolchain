@@ -33,7 +33,7 @@
 
   ![Natural-Language-Classifier-Service-Instance](./Natural-Language-Classifier-Service-Instance.png)
 
-8.	Next click the “Service Credentials” tab at the top and click the “New Credential” button, then “Add”. You now have a set of credentials that your application can use.
+8.	Next click the “Service Credentials” tab at the top and view your credentials. If credentials were not created automatically for you, click the “New Credential” button, then “Add”. You now have a set of credentials that your application can use.
 
   ![Natural-Language-Credentials](./Natural-Language-Credentials.png)
 
