@@ -28,6 +28,9 @@ Here are some other examples of how you might apply the Natural Language Classif
 *	Sentiment analysis
 *	Analyze text from social media or other sources and identify whether it relates positively or negatively to an offering or service.
 
+### Hands-on Lab
+* Now that you've read through the background information you can run through a lab [here](./lab.md)
+
 ### References:
 * http://www.ibm.com/watson/developercloud/doc/nl-classifier/
 * http://www.ibm.com/watson/developercloud/nl-classifier.html#how-it-is-used-block
