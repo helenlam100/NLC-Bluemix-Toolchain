@@ -80,9 +80,6 @@ NLC_PASSWORD=<password you copied from credentials above>
 
  ![Natural-Language-Classifier-Service-Instance-Back](./Natural-Language-Classifier-Service-Instance-Back.png)
 
-  ```
-  $ cf set-env <application-name> CLASSIFIER_ID <classifier-id>
-  ```
   * Once back on the Application Connections page, go back to the Application `Overview` page, from the left sidebar.
   * Once on your Application Overview page, scroll down and to the right and you should see a section called `Continuous Delivery`, click the `View Toolchain` button in order to back to the Toolchain overview page.
 
