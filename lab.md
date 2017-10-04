@@ -75,7 +75,7 @@ NLC_PASSWORD=<password you copied from credentials above>
     curl -u "${NLC_USERNAME}":"${NLC_PASSWORD}" "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/$NLC_CLASSIFIER_ID"
     ```
 
-12.	To configure your running natural language classifier application to use your classifier, you must set the classifier ID as an environment variable. We can do this the pipeline script.
+12.	To configure your running natural language classifier application to use your classifier, you must set the classifier ID as an environment variable. We can do this in the pipeline script.
   * Go back to your application `Connections` page by clicking on the "Back arrow" next to `Natural-Language-Classifier-Nodejs`.
 
  ![Natural-Language-Classifier-Service-Instance-Back](./Natural-Language-Classifier-Service-Instance-Back.png)
