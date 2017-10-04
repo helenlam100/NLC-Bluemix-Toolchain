@@ -15,7 +15,7 @@
 
 3.	Once you click the “Create” button, click on the “Pipeline” tile to watch the progress of the deployment.
 
-  ![Pipeline-Tile-Toolchain-Overview](./Pipeline-Tile-Toolchain-Overview.png)
+  ![Pipeline-Tile-Toolchain-Overview](./Pipeline-tile-Toolchain-Overview.png)
 
 4.	As part of the pipeline deploy script, your Natural Language Classifier service will be created, but the service credentials won’t be. Once your pipeline has deployed your application, click the back button on the page to go back to your toolchain.
 
@@ -23,7 +23,7 @@
 
 5.	Once you’re back on the toolchain overview page, click the “Connections” tab to see the Application that was deployed by the Pipeline tool in your toolchain. Click the App card to get taken to the Application Overview page on Bluemix.
 
-  ![App-Card](./App-Card.png)
+  ![App-Card](./App-card.png)
 
 6.	Once on the Application Overview page on Bluemix, you’ll see a “Connections” tab on the left there too. Click that tab to see all the Connections your running Application has on Bluemix.
 
