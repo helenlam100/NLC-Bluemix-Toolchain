@@ -15,6 +15,7 @@ To skip the background information and go straight to the lab's steps, [go here]
 ### Your input
 *	Text to a pre-trained model
 * [Watch video](https://youtu.be/h1ZiUIvYdD8)
+* [Check out demo](https://natural-language-classifier-demo.mybluemix.net/)
 
 ##### “The Natural Language Classifier is designed to be trained easily for your use case and data. The service is "well-read" in the content of Wikipedia. That background knowledge means that it can return classes for texts that it has not seen in training.”
 
